@@ -1,2 +1,2 @@
-# Blackscreen.github.io
-black screen app
+# http://aryangulati.github.io/Blackscreen/
+Black Screen App
